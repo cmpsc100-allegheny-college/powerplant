@@ -1,14 +1,14 @@
 # TODOs
-- paperwork/group-reflection.md:
-  - description: No TODO markers left in group-reflection.md
+- paperwork/reflection.md:
+  - description: No TODO markers left in reflection.md
     category: Paperwork
     check: MatchFileFragment
     options:
       fragment: "TODO"
       count: 0
       exact: true
-- paperwork/group-reflection.md:
-  - description: All checkboxes checked in group-reflection.md
+- paperwork/reflection.md:
+  - description: All checkboxes checked in reflection.md
     category: Paperwork
     check: MatchFileFragment
     options:

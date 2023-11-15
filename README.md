@@ -1,37 +1,52 @@
 | Date              |          |
 |:------------------|:---------|
-| Todo | Assigned |
-| Todo | Due      |
+| 15 November 2023 | Assigned |
+| 20 November 2023 | Due      |
 | Status            | [![GatorGrader](../../actions/workflows/main.yml/badge.svg)](../../actions/workflows/main.yml) |
 
 # KEEPING UP WITH CURRENT EVENTS, POLITICIAN PROPOSES POWER PRODUCTION FOR PLAUDITS
 
 **Reported by `Official Mayor-Endorsed News` on `Todo`**
 
-If you thought surveillance was a shocking trick, the Mayor's Office is all charged up about a new effort: sidelining the environment to feed the new manufacturing craze in `term-world`. As the Mayor commented during a recent presss conference, he's apparently "not the only one who's power hungry around here."
+If you thought surveillance was a shocking trick, the Mayor's Office is all charged up about a new effort: sidelining the environment to feed the new manufacturing craze in `term-world`. As the Mayor commented during a recent presss conference, she's apparently "not the only one who's power hungry around here."
 
 Until now, citizens haven't taken advantage of the digital riches in coal, oil, and, well renewables like solar and wind power (we guess, if you're into that) and the energizing effect they could have on the `term-world` economy. Forget about nature versus nuture, the new calling card is _nature versus neutrons_.
 
 Each neighborhood is being asked to work together to provide a model for what electrification looks like in the world. What path will provide the charge for the future? Giga-what neighborhood will emerge as new luminaries? How will we continue to power hearth and ohm?
 
-## Overview
+## Learning Outcomes
 
-In this activity, you'll:
+In this assignment you will:
 
 * discover how to import custom modules and use them as `object`s
 * continue to create `class`es and `object`s to achieve purpose-built tasks
 * observe strange, but productive, `object` behaviors
 * begin to explore the concept of `object` `inheritance`, a way to "template" mulitple objects at once
 
-### Previous Learning Objectives
+You will also continue to practice:
 
-If you wish to review previous learning objectives from our assignments, you can visit the [`Syllabus`](https://chompe.rs/100-syllabus) for helpful information. However, it's also important to make an effort to retain what we have covered thus far as we progress through the course sections of the Readme might be taken out.
+- Using data structures such as lists
+- Writing class methods including constructors
+- Writing Python code that uses loops
+- Running Python programs
+- Debugging Python programs
+- Technical writing in Markdown
+- Command line navigation
+- Using version control (Git)
+
+These assignment learning outcomes contribute to the following course learning outcomes described in the [course syllabus](https://github.com/cmpsc100-allegheny-college/course_information):
+
+1. Apply Python programming principles to execute and explain computer code that implements interactive, novel solutions to a variety of computable problems.
+2. Release code consistent with industry-standard practices using professional grade IDEs, command line tools, and version control tools.
+3. Analyze and suggest revisions to existing Python language code to improve or add functionality.
+4. Evaluate the practical and ethical implications of writing computer code and discuss the contexts, perceived effects, and impacts exerted on and by computer code as a cultural force or artifact.
+5. Design, describe, and implement original projects incorporating standard practices and Python language principles.
 
 ## Completing `powerplant` content
 
 For our final regular activity, we have some decisions to make: some about design and some about more-or-less environmentally-friendly options. This task is all about choices. 
 
-Here's a list of broad goals, some of which we'll complete together:
+Here is a list of broad goals, some of which we'll complete together:
 
 * survey the array of fuel options and how to do use each
 * charge a `.battery` file, logging how much each energy source generates
