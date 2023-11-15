@@ -1,12 +1,14 @@
 | Date              |          |
 |:------------------|:---------|
 | 15 November 2023 | Assigned |
-| 20 November 2023 | Due      |
+| 21 November 2023 | Due      |
 | Status            | [![GatorGrader](../../actions/workflows/main.yml/badge.svg)](../../actions/workflows/main.yml) |
+
+**Improvement for this assignment is due by or on December 1. Improvements for all previous assignments need to be completed before November 27th.**
 
 # KEEPING UP WITH CURRENT EVENTS, POLITICIAN PROPOSES POWER PRODUCTION FOR PLAUDITS
 
-**Reported by `Official Mayor-Endorsed News` on `Todo`**
+**Reported by `Official Mayor-Endorsed News`**
 
 If you thought surveillance was a shocking trick, the Mayor's Office is all charged up about a new effort: sidelining the environment to feed the new manufacturing craze in `term-world`. As the Mayor commented during a recent presss conference, she's apparently "not the only one who's power hungry around here."
 
@@ -57,10 +59,10 @@ Here is a list of broad goals, some of which we'll complete together:
 
 `term-world` boasts a mix of `Oil`, `Coal`, `Wind`, and `Solar` power options, available as part of the `resources` module.
 
-|Type |Exhaustion |Energy yield |Amount yielded |
+|Type |Exhaustion |Energy yield |Amount yielded per request|
 |:----|:----------|:------------|:--------------|
 |`Oil`|Exhaustible|1667 kWh per barrel |5 barrels |
-|`Coal`|Exhaustible|5549 kWh per short ton|2 short tons|
+|`Coal`|Exhaustible|5549 kWh per short ton|7 short tons|
 |`Solar`|Inexhaustible|1.2% panel wattage per second |1 second |
 |`Wind`|Inexhaustible |Various, depending on `blade_size`†, wind speed |1 second |
 
@@ -104,6 +106,8 @@ To call up the news page, use `CTRL + SHIFT + P` and type `menu` to filter the r
 Don't forget to finish the `reflection.md` file in the `paperwork` folder!
 
 ## Improvement suggestions
+
+**Improvement for this assignment is due by or on December 1. Improvements for all previous assignments need to be completed before November 27th.**
 
 Here are some suggestions for improvements you can, **but are not limited to** use:
 
